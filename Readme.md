@@ -23,7 +23,7 @@ $ git clone https://github.com/yahyrparedes/miscellanius-peru
 $ cd miscellanius-peru
 ```
 
-4. Run the application:
+3. Run the application:
 ```bash
 $ npm run dev
 ```
