@@ -1,3 +1,6 @@
+DEPRECATED
+
+
 # MISCELLANEOUS API
 
 - Consulta RUC
